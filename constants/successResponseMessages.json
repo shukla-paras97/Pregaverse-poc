@@ -1,0 +1,43 @@
+{
+  "2000" : "Login successfully",
+  "2001" : "user registered successfully",
+  "2002" : "OTP sent successfully",
+  "2003" : "User updated successfully",
+  "2004" : "User not updated successfully",
+  "2005" : "Category created successfully",
+  "2006" : "Categories found successfully",
+  "2007" : "Category deleted successfully",
+  "2008" : "Admin is already exists",
+  "2009" : "Admin registered successfully",
+  "2010" : "Invalid email or password",
+  "2051" : "Doctor Added Successfully",
+  "2052" : "Doctors Found Successfully",
+  "2053" : "Doctor Deleted Successfully",
+  "2054" : "Hospital Added Successfully",
+  "2055" : "Hospitals Found Successfully",
+  "2056" : "Hospital Deleted Successfully",
+  "2011" : "Diet added",
+  "2012" : "Diet list",
+  "2013" : "Diet deleted",
+  "2014" : "Invalid phone number or otp",
+  "2015" : "Exercise Added",
+  "2016" : "Post Added",
+  "2017" : "Posts Found Successfully",
+  "2018" : "Post Deleted Successfully",
+  "2019" : "Comment Added",
+  "2020" : "Comments Found Successfully",
+  "2021" : "Comment Deleted Successfully",
+
+
+  "200": "success",
+
+  "4001" : "email already exist,Please try with another email",
+  "4002" : "User not registered",
+  "4003" : "Category not found to delete",
+  "4004" : "Doctor not found to delete",
+  "4005" : "Hospital not found to delete",
+  "4006" : "Post not found to delete",
+  "4007" : "Comment not found to delete"
+  
+  
+}
